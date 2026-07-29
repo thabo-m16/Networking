@@ -1,0 +1,89 @@
+Module Objective: Explain important concepts in network communication.
+-----------------------------------------------------------------------------------------------------------|
+Topics Title  | Topic Objective                                                                            |
+-----------------------------------------------------------------------------------------------------------|
+Network Types | Question: Explain The Concept Of A Network?                                                |
+              | Answer:                                                                                    |
+              |                                                                                            |
+-----------------------------------------------------------------------------------------------------------|
+Data Trans-   | Question: Describe network data                                                            |
+mission       | Answer:                                                                                    |
+              |                                                                                            |
+-----------------------------------------------------------------------------------------------------------|
+BandWidth &   | Question: Explain network transmission speed and capacity                                  |
+Throughput    | Answer:                                                                                    | 
+              |                                                                                            |
+-----------------------------------------------------------------------------------------------------------|
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TOPIC 1: NETWORK TYPES
+-----------------------------------------------------------------------------------------------------------|
+SUBTOPICS                                                                                                  |
+-----------------------------------------------------------------------------------------------------------|
+1.1| EVERYTHING IS ONLINE: The term internet is usually not used to refer to the physical connections in   | 
+   |                       the real world. Rather, they tend to think of it as a formless collection of    |
+   |                       connections. It is the “place” people go to find or share information. Devices  | 
+   |                       have become an intermediary between humans and the internet and the             |  
+   |                       accessibility of devices has increased the number of people who connect online. |                                                                  
++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+1.2| WHO OWNS THE INTERNET: The internet is not owned by any individual or group. The internet is a        |
+   |                        worldwide collection of interconnected networks, cooperating with each other to| 
+   |                        exchange information using common standards. Through telephone wires,          |
+   |                        fiber-optic cables, wireless transmissions, and satellite links, internet users|
+   |                        can exchange information in a variety of forms.                                |
++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+1.3| LOCAL NETWORK: Local networks come in all sizes. They can range from simple networks consisting of two|
+   |               computers, to networks connecting hundreds of thousands of devices. Networks installed  |
+   |               in small offices, or homes and home offices, are referred to as small office/home office| 
+   |               (SOHO) networks. SOHO networks let you share resources such as printers, documents,     |
+   |               pictures, and music, between a few local users. In business, large networks can be used |
+   |               to advertise and sell products, order supplies, and communicate with customers.         |
+   |               Communication over a network is usually more efficient and less expensive than          |
+   |               traditional forms of communication, such as regular mail or long distance phone calls.  | 
+   |               Networks allow for rapid communication such as email and instant messaging, and provide |
+   |               consolidation and access to information stored on network servers. Business and SOHO    | 
+   |               networks usually provide a shared connection to the internet. The internet is considered| 
+   |               a "network of networks" because it is literally made up of thousands of local networks  |
+   |               that are connected to each other.                                                       |
+   |                                                                                                       |
+   |               1.2.1| SMALL HOME NETWOKS: Connect A few Computers To Each Other And To The Network.    |
+   |               1.2.2| SOHO : Allows Computers In A Home Office Or Remote Office To Connect To A        | 
+   |                    |        Corporate Network, Or Access Centralized, Shared Resources.               |
+   |               1.2.3| MEDIUM TO LARGE NETWORKS: Can Have Many Locations With Hundreds Of Thousands Of  |
+   |                    |                           Computers of interconnected hosts.                     | 
+   |               1.2.3| WORLD WIDE NETWORK: The Internet Is A Network Of Networks That Connects Hundreds |
+   |                                          Of Millions Of Computers World Wide.                         |
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1.4| MOBILE DEVICES: DIFFERENT TYPES OF COMPUTING DEVICES=
+   |                  
+   |                 1.4.1| SMARTPHONES: Smartphones combine the functions of many different products to-
+   |                      |              gather, such as GPS, telephone, camera, media player, and touch 
+   |                      |              screen computer.
+   |                 1.4.2| TABLET: they are ideal for watching videos and reading magazines or books. 
+   |                      |         With on-screen keyboards, users are able to do many of the things they 
+   |                      |         used to do on their laptop computer, such as composing emails or 
+   |                      |         browsing the web.
+   |                 1.4.3| SMARTWATCH: A smartwatch can connect to a smartphone to provide the user with 
+   |                      |             alerts and messages. Additional functions, such as heart rate 
+   |                      |             monitoring and counting steps, like a pedometer, can help people who
+   |                      |             are wearing the device to track their health.  
+   |                 1.4.4| SMARTGLASSES: A wearable computer in the form of glasses, such as Google Glass,
+   |                      |               contains a tiny screen that displays information to the wearer in 
+   |                      |               a similar fashion to the Head-Up Display (HUD) of a fighter pilot.
+   |                      |               A small touch pad on the side allows the user to navigate menus 
+   |                      |               while still being able to see through the smart glasses.
+   |
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1.5| CONNECTED HOME DEVICES: Many of the things in your home can also be connected to the internet so that they
+                             can be monitored and configured remotely:
+                              
+                             1.5.1|
+
+
+
+
+
+
+
+                                                        
